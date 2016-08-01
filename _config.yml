@@ -1,4 +1,3 @@
-layout_spectrum: 0.7951790057122707
 typography_spectrum: 0.9251504752319306
 color:
   brandStrength: 0.4998188770841807
@@ -11,5 +10,7 @@ color:
     - '#BCAB47'
     - '#6B574B'
     - '#160600'
+layout_spectrum: 0.7951790057122707
 name: Eekhaut
+title: Guido Eekhaut
 description: 'Futurist, Crime and Speculative Fiction Writer'
