@@ -6,9 +6,10 @@ color:
   saturation: 0.9812493564095348
   rhythmicContrast: 0.14469765382818878
   brandColors:
-    - '#FCFFF5'
-    - '#D1DBBD'
-    - '#91AA9D'
-    - '#3E606F'
-    - '#193441'
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
 name: Eekhaut
+description: 'Futurist, Crime and Speculative Fiction Writer'
