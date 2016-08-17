@@ -4,11 +4,18 @@
         <description><![CDATA[Guido Eekhaut]]></description>
         <link>https://thegrid.ai/eekhaut/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 17 Aug 2016 09:25:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Aug 2016 09:40:17 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/eekhaut/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Kan een Intelligente Machine ook een Morele Agent zijn?]]></title>
+            <description><![CDATA[<article><h1>Kan een Intelligente Machine ook een Morele Agent zijn?</h1><p>Het is dus niet mogelijk om alle splitsende paden (om een Borgesiaanse term te gebruiken) van dilemma's in te bouwen in het verhaal van je morele en andere beslissingen, omdat de hoeveelheid informatie over potentiële toestanden gewoon onoverkomelijk groot is. Daarom is het voor mensen zo moeilijk om ware morele agenten te zijn.</p></article>]]></description>
+            <link>http://www.civismundi.nl/index.php?p=artikel&amp;aid=2999</link>
+            <guid isPermaLink="false">821948c8-5c51-45c5-8341-17d6cb9dd302</guid>
+            <pubDate>Wed, 17 Aug 2016 09:40:14 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Talent and wealth creation - Tomorrow's Company]]></title>
-            <description><![CDATA[<article><h1>Talent and wealth creation - Tomorrow's Company</h1><p>Discussion Talent and wealth creation Back in the 1960's Peter Drucker argued that knowledge was becoming society's key economic resource. Today's prosperity has its foundations in the knowledge in many fields that has been built up since the beginning of the industrial revolution.</p><img src="http://tomorrowscompany.com/wp-content/uploads/2016/08/blackboard.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Talent and wealth creation - Tomorrow's Company</h1><p>Discussion Talent and wealth creation Back in the 1960's Peter Drucker argued that knowledge was becoming society's key economic resource. Today's prosperity has its foundations in the knowledge in many fields that has been built up since the beginning of the industrial revolution.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/72525278a20ad6bfc9f82d525b189b0a/croprotate.jpg?cropheight=241&cropwidth=296&degrees=0&input=http%3A%2F%2Ftomorrowscompany.com%2Fwp-content%2Fuploads%2F2016%2F08%2Fblackboard.jpg&x=0&y=16"></article>]]></description>
             <link>http://tomorrowscompany.com/talent-wealth-creation/</link>
             <guid isPermaLink="false">24d56e15-bd81-4bd4-bca1-99504e37961a</guid>
             <pubDate>Wed, 17 Aug 2016 09:25:32 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://www.theguardian.com/business/2016/aug/10/joseph-stiglitz-the-problem-with-europe-is-the-euro</link>
             <guid isPermaLink="false">fca10768-f934-496a-9de6-a5b03ef1b344</guid>
             <pubDate>Wed, 10 Aug 2016 09:22:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The New Ruling Class]]></title>
-            <description><![CDATA[<article><h1>The New Ruling Class</h1><p>Last fall, Toby Young did something ironic. Toby is the son of Michael Young, the British sociologist and Labour life peer whose 1958 satire The Rise of the Meritocracy has been credited with coining the term.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/865b1b1bb2c38d16f6745a4a58321188/noop.jpg?input=http%3A%2F%2Fiasc-culture.org%2FTHR%2Fchannels%2FTHR%2Fwp-content%2Fuploads%2F2016%2F06%2F6865346-little-dorrit-2008_ANDREWS.jpg"></article>]]></description>
-            <link>http://www.iasc-culture.org/THR/THR_article_2016_Summer_Andrews.php</link>
-            <guid isPermaLink="false">a8316cdf-08c7-4dcf-826b-4099d88fd80a</guid>
-            <pubDate>Sat, 06 Aug 2016 06:11:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
