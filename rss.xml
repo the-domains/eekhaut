@@ -4,11 +4,18 @@
         <description><![CDATA[Guido Eekhaut]]></description>
         <link>https://thegrid.ai/eekhaut/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 17 Aug 2016 07:50:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Aug 2016 09:08:04 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/eekhaut/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Hard to Believe]]></title>
+            <description><![CDATA[<article><h1>Hard to Believe</h1><p>Robert Herritt on how we know what we know, and what to do when experts disagree</p><img src="http://www.thenewatlantis.com/imgLib/20160630_TNA48Herrittw1200Facebook.png"></article>]]></description>
+            <link>http://www.thenewatlantis.com/publications/hard-to-believe</link>
+            <guid isPermaLink="false">423e263b-39e1-4578-a058-9d00c5c19953</guid>
+            <pubDate>Wed, 17 Aug 2016 09:07:25 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Right-Wing Extremists Are a Bigger Threat to America Than ISIS]]></title>
-            <description><![CDATA[<article><h1>Right-Wing Extremists Are a Bigger Threat to America Than ISIS</h1><p>Inside a storefront Chinese restaurant in upstate New York, neon light from a multicolored window sign glowed on the face of an extremist plotting mass murder.</p><img src="https://d.europe.newsweek.com/en/full/49571/02-12-militia-01.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Right-Wing Extremists Are a Bigger Threat to America Than ISIS</h1><p>Inside a storefront Chinese restaurant in upstate New York, neon light from a multicolored window sign glowed on the face of an extremist plotting mass murder.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/2cd9ec1eb7f93aaa1f132f30eb1e6187/noop.jpg?input=https%3A%2F%2Fd.europe.newsweek.com%2Fen%2Ffull%2F49571%2F02-12-militia-01.jpg"></article>]]></description>
             <link>http://europe.newsweek.com/right-wing-extremists-militants-bigger-threat-america-isis-jihadists-422743?rm=eu</link>
             <guid isPermaLink="false">bb6592bf-c989-4574-af9a-078b57b00e0e</guid>
             <pubDate>Wed, 17 Aug 2016 07:49:48 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://www.theguardian.com/books/2016/jul/29/if-politic-has-become-stranger-than-fiction-novelist-try-harder?curator=MediaREDEF</link>
             <guid isPermaLink="false">4fc104ea-4b7a-47e7-8d9d-8e019ae5e146</guid>
             <pubDate>Mon, 01 Aug 2016 17:32:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Untold Story of Magic Leap, the World's Most Secretive Startup]]></title>
-            <description><![CDATA[<article><h1>The Untold Story of Magic Leap, the World's Most Secretive Startup</h1><p>T There is something special happening in a generic office park in an uninspiring suburb near Fort Lauderdale, Florida. Inside, amid the low gray cubicles, clustered desks, and empty swivel chairs, an impossible 8-inch robot drone from an alien planet hovers chest-high in front of a row of potted plants.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c074a0d302be59dce473c720dd3426bf33ec9c32.jpg"></article>]]></description>
-            <link>http://www.wired.com/2016/04/magic-leap-vr/?utm_content=buffer05f4e&amp;utm_medium=social&amp;utm_source=twitter.com&amp;utm_campaign=buffer</link>
-            <guid isPermaLink="false">dad09712-2023-4367-91c3-4bf067ec69a6</guid>
-            <pubDate>Mon, 01 Aug 2016 17:07:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
