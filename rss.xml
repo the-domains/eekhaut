@@ -4,11 +4,18 @@
         <description><![CDATA[Guido Eekhaut]]></description>
         <link>https://thegrid.ai/eekhaut/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 24 Aug 2016 06:46:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Aug 2016 06:58:19 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/eekhaut/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Donald Trump Is Going To Be Elected]]></title>
+            <description><![CDATA[<article><h1>Donald Trump Is Going To Be Elected</h1><p>Donald Trump is going to be elected president. The American people voted for him a long time ago. They voted for him when The History Channel went from showing documentaries about the Second World War to Pawn Stars and Swamp People.</p><img src="http://i.huffpost.com/gen/4454152/images/o-ELECTION-TO-THE-WHITE-HOUSE-AMERICA-facebook.jpg"></article>]]></description>
+            <link>http://www.huffingtonpost.com/michael-rosenblum/donald-trump-is-going-to_b_11637008.html?curator=MediaREDEF</link>
+            <guid isPermaLink="false">c97a6d4d-b19b-42c2-a83d-50b0a2bd3777</guid>
+            <pubDate>Wed, 24 Aug 2016 06:57:59 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Gravitational waves will bring the extreme universe into view - Daniel Hoak | Aeon Ideas]]></title>
-            <description><![CDATA[<article><h1>Gravitational waves will bring the extreme universe into view - Daniel Hoak | Aeon Ideas</h1><p>The first direct detection of gravitational waves on 14 September 2015 proved that massive objects can ripple the structure of space, verifying a key prediction of Albert Einstein's general theory of relativity. The second detection, made on 26 December 2015 and announced this June, firmly established gravitational waves as a new window to the Universe.</p><img src="https://epsilon.aeon.co/images/14c44414-37bd-46e5-9182-660b46aa438f/idea_sized-ns_gw_art.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Gravitational waves will bring the extreme universe into view - Daniel Hoak | Aeon Ideas</h1><p>The first direct detection of gravitational waves on 14 September 2015 proved that massive objects can ripple the structure of space, verifying a key prediction of Albert Einstein's general theory of relativity. The second detection, made on 26 December 2015 and announced this June, firmly established gravitational waves as a new window to the Universe.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/f11b557e086aa44c7881fc8704a27bc0/noop.jpg?input=https%3A%2F%2Fepsilon.aeon.co%2Fimages%2F14c44414-37bd-46e5-9182-660b46aa438f%2Fidea_sized-ns_gw_art.jpg"></article>]]></description>
             <link>https://aeon.co/ideas/gravitational-waves-will-bring-the-extreme-universe-into-view</link>
             <guid isPermaLink="false">8a412608-387f-45c2-9b94-b79194a4d1e6</guid>
             <pubDate>Wed, 24 Aug 2016 06:45:48 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://www.theatlantic.com/magazine/archive/2016/09/are-we-any-safer/492761/?src=longreads</link>
             <guid isPermaLink="false">ecd8bfdb-ce7a-4c1d-9159-8be6341ccf10</guid>
             <pubDate>Tue, 16 Aug 2016 07:28:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Inside the weird world of quantum computers]]></title>
-            <description><![CDATA[<article><h1>Inside the weird world of quantum computers</h1><p>In a world where we are relying increasingly on computing, to share our information and store our most precious data, the idea of living without computers might baffle most people.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/793abd7be19ec9cf23a0bce46f0faf75/noop?input=http%3A%2F%2Fwi-images.condecdn.net%2Fimage%2FmRXekAmwy6N%2Fcrop%2F700"></article>]]></description>
-            <link>http://www.wired.co.uk/article/quantum-computing-explained</link>
-            <guid isPermaLink="false">2f531d32-a643-4c14-baaa-aae1cd730bee</guid>
-            <pubDate>Tue, 16 Aug 2016 07:27:43 GMT</pubDate>
         </item>
     </channel>
 </rss>
