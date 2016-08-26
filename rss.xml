@@ -4,11 +4,18 @@
         <description><![CDATA[Guido Eekhaut]]></description>
         <link>https://thegrid.ai/eekhaut/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 25 Aug 2016 10:27:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Aug 2016 06:23:12 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/eekhaut/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Facebook's latest algorithm sees the world more clearly]]></title>
+            <description><![CDATA[<article><h1>Facebook's latest algorithm sees the world more clearly</h1><p>To make sense of the visual world, it's not enough to know that you are looking at, say, a cat. You need to know where the cat stops and the background begins. A computer vision algorithm developed by Facebook and made publicly available to other researchers today gives computers this ability.</p><img src="https://d267cvn3rvuq91.cloudfront.net/i/images/facebookai4.jpg?cx=0&cy=404&cw=1400&ch=787&sw=1200"></article>]]></description>
+            <link>https://www.technologyreview.com/s/602236/facebook-releases-code-to-let-computers-see-more-like-us/?set=602242</link>
+            <guid isPermaLink="false">df97ccc2-0fe1-4841-b467-d9bf645cb9dc</guid>
+            <pubDate>Fri, 26 Aug 2016 06:22:53 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Brexit's Gifts to Putin]]></title>
-            <description><![CDATA[<article><h1>Brexit's Gifts to Putin</h1><p>Vladimir Putin may have publicly voiced his concern about the challenges ahead for the United Kingdom and the European Union during their divorce, yet Brexit is a real opportunity for Russia. Indeed, the Russian president will exploit the situation in three ways in the short term.</p><img src="https://www.foreignaffairs.com/s3/files/styles/large-crop-landscape/s3/images/articles/2016/08/23/rtsm8c2.jpg?itok=Vzia7wGd"></article>]]></description>
+            <description><![CDATA[<article><h1>Brexit's Gifts to Putin</h1><p>Vladimir Putin may have publicly voiced his concern about the challenges ahead for the United Kingdom and the European Union during their divorce, yet Brexit is a real opportunity for Russia. Indeed, the Russian president will exploit the situation in three ways in the short term.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/6366a57f8ff7bbd46b2da5d90f45d0b5/noop.jpg?input=https%3A%2F%2Ffiles.foreignaffairs.com%2Fstyles%2Flarge-crop-landscape%2Fs3%2Fimages%2Farticles%2F2016%2F08%2F23%2Frtsm8c2.jpg"></article>]]></description>
             <link>https://www.foreignaffairs.com/articles/russian-federation/2016-08-24/brexits-gifts-putin</link>
             <guid isPermaLink="false">31a1ac4a-05aa-46ba-a544-4ee9e9569033</guid>
             <pubDate>Thu, 25 Aug 2016 10:27:19 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://www.quantamagazine.org/20160823-the-neuroscience-behind-bad-decisions/</link>
             <guid isPermaLink="false">5f9395c1-9627-43da-aac6-438bd88427f1</guid>
             <pubDate>Wed, 24 Aug 2016 06:44:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Kan een Intelligente Machine ook een Morele Agent zijn?]]></title>
-            <description><![CDATA[<article><h1>Kan een Intelligente Machine ook een Morele Agent zijn?</h1><p>Het is dus niet mogelijk om alle splitsende paden (om een Borgesiaanse term te gebruiken) van dilemma's in te bouwen in het verhaal van je morele en andere beslissingen, omdat de hoeveelheid informatie over potentiële toestanden gewoon onoverkomelijk groot is. Daarom is het voor mensen zo moeilijk om ware morele agenten te zijn.</p></article>]]></description>
-            <link>http://www.civismundi.nl/index.php?p=artikel&amp;aid=2999</link>
-            <guid isPermaLink="false">821948c8-5c51-45c5-8341-17d6cb9dd302</guid>
-            <pubDate>Wed, 17 Aug 2016 09:40:14 GMT</pubDate>
         </item>
     </channel>
 </rss>
