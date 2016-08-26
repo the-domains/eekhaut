@@ -4,11 +4,18 @@
         <description><![CDATA[Guido Eekhaut]]></description>
         <link>https://thegrid.ai/eekhaut/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 26 Aug 2016 06:23:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Aug 2016 06:25:04 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/eekhaut/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Here's how Baidu's founder thinks AI will change the world]]></title>
+            <description><![CDATA[<article><h1>Here's how Baidu's founder thinks AI will change the world</h1><p>Probably no Chinese company has put as much effort into developing AI as Robin Li's Baidu. From its self-driving car project to its real-time faceswapping app, the company has been trying to push the boundaries of AI forward, aided by its Institute of Deep Learning research center.</p><img src="https://cdn.techinasia.com/wp-content/uploads/2016/08/ai-better-750x507.jpg"></article>]]></description>
+            <link>https://www.techinasia.com/baidu-founder-ai-future</link>
+            <guid isPermaLink="false">910475c3-c812-43a0-b540-e7b943fa48c9</guid>
+            <pubDate>Fri, 26 Aug 2016 06:24:45 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Facebook's latest algorithm sees the world more clearly]]></title>
-            <description><![CDATA[<article><h1>Facebook's latest algorithm sees the world more clearly</h1><p>To make sense of the visual world, it's not enough to know that you are looking at, say, a cat. You need to know where the cat stops and the background begins. A computer vision algorithm developed by Facebook and made publicly available to other researchers today gives computers this ability.</p><img src="https://d267cvn3rvuq91.cloudfront.net/i/images/facebookai4.jpg?cx=0&cy=404&cw=1400&ch=787&sw=1200"></article>]]></description>
+            <description><![CDATA[<article><h1>Facebook's latest algorithm sees the world more clearly</h1><p>To make sense of the visual world, it's not enough to know that you are looking at, say, a cat. You need to know where the cat stops and the background begins. A computer vision algorithm developed by Facebook and made publicly available to other researchers today gives computers this ability.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/242e660259e46f7f795fd6126e256420/noop.jpg?input=https%3A%2F%2Fd267cvn3rvuq91.cloudfront.net%2Fi%2Fimages%2Ffacebookai4.jpg%3Fcx%3D0%26cy%3D404%26cw%3D1400%26ch%3D787%26sw%3D1200"></article>]]></description>
             <link>https://www.technologyreview.com/s/602236/facebook-releases-code-to-let-computers-see-more-like-us/?set=602242</link>
             <guid isPermaLink="false">df97ccc2-0fe1-4841-b467-d9bf645cb9dc</guid>
             <pubDate>Fri, 26 Aug 2016 06:22:53 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://aeon.co/ideas/gravitational-waves-will-bring-the-extreme-universe-into-view</link>
             <guid isPermaLink="false">8a412608-387f-45c2-9b94-b79194a4d1e6</guid>
             <pubDate>Wed, 24 Aug 2016 06:45:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Neuroscience Behind Bad Decisions | Quanta Magazine]]></title>
-            <description><![CDATA[<article><h1>The Neuroscience Behind Bad Decisions | Quanta Magazine</h1><p>Humans often make bad decisions. If you like Snickers more than Milky Way, it seems obvious which candy bar you'd pick, given a choice of the two. Traditional economic models follow this logical intuition, suggesting that people assign a value to each choice - say, Snickers: 10, Milky Way: 5 - and select the top scorer.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/0135781687ae351ae51a10ea674dd62d/noop.jpg?input=https%3A%2F%2Fwww.quantamagazine.org%2Fwp-content%2Fuploads%2F2016%2F08%2FBadDecisions_Ft.jpg"></article>]]></description>
-            <link>https://www.quantamagazine.org/20160823-the-neuroscience-behind-bad-decisions/</link>
-            <guid isPermaLink="false">5f9395c1-9627-43da-aac6-438bd88427f1</guid>
-            <pubDate>Wed, 24 Aug 2016 06:44:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
