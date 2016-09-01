@@ -4,11 +4,18 @@
         <description><![CDATA[Guido Eekhaut]]></description>
         <link>https://thegrid.ai/eekhaut/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 30 Aug 2016 06:28:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Aug 2016 06:42:13 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/eekhaut/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[The Anthropocene epoch: scientists declare dawn of human-influenced age]]></title>
+            <description><![CDATA[<article><h1>The Anthropocene epoch: scientists declare dawn of human-influenced age</h1><p>Humanity's impact on the Earth is now so profound that a new geological epoch - the Anthropocene - needs to be declared, according to an official expert group who presented the recommendation to the International Geological Congress in Cape Town on Monday.</p><img src="https://i.guim.co.uk/img/media/29ee7b95089d9bafb573576c2e786866eb47f321/0_350_5216_3131/5216.jpg?w=1200&h=630&q=55&auto=format&usm=12&fit=crop&bm=normal&ba=bottom%2Cleft&blend64=aHR0cHM6Ly91cGxvYWRzLmd1aW0uY28udWsvMjAxNi8wNS8yNS9vdmVybGF5LWxvZ28tMTIwMC05MF9vcHQucG5n&s=8838351eed6518e78c6fbfc6b810d9a0"></article>]]></description>
+            <link>https://www.theguardian.com/environment/2016/aug/29/declare-anthropocene-epoch-experts-urge-geological-congress-human-impact-earth</link>
+            <guid isPermaLink="false">b7aee22b-2456-401e-9e24-b13a3faeaf2c</guid>
+            <pubDate>Tue, 30 Aug 2016 06:41:19 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Will This "Neural Lace" Brain Implant Help Us Compete with AI? - Facts So Romantic - Nautilus]]></title>
-            <description><![CDATA[<article><h1>Will This "Neural Lace" Brain Implant Help Us Compete with AI? - Facts So Romantic - Nautilus</h1><p>Solar-powered self-driving cars, reusable space ships, Hyperloop transportation, a mission to colonize Mars: Elon Musk is hell-bent on turning these once-far-fetched fantasies into reality. But none of these technologies has made him as leery as artificial intelligence. Earlier this summer at Code Conference 2016, Musk stated publicly that given the current rate of A.I.</p><img src="http://static.nautil.us/10267_9bde76f262285bb1eaeb7b40c758b53e.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Will This "Neural Lace" Brain Implant Help Us Compete with AI? - Facts So Romantic - Nautilus</h1><p>Solar-powered self-driving cars, reusable space ships, Hyperloop transportation, a mission to colonize Mars: Elon Musk is hell-bent on turning these once-far-fetched fantasies into reality. But none of these technologies has made him as leery as artificial intelligence. Earlier this summer at Code Conference 2016, Musk stated publicly that given the current rate of A.I.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/bf5d21d94b6b27759867ed99cb6a9af3/noop.jpg?input=http%3A%2F%2Fstatic.nautil.us%2F10267_9bde76f262285bb1eaeb7b40c758b53e.jpg"></article>]]></description>
             <link>http://nautil.us/blog/with-this-neural-lace-brain-implant-we-can-stay-as-smart-as-ai</link>
             <guid isPermaLink="false">d27bce6b-d5c5-4bdf-baad-7a32b2c004ce</guid>
             <pubDate>Tue, 30 Aug 2016 06:27:58 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://www.curiousapes.com/part-1-using-quantum-physics-to-manipulate-reality/</link>
             <guid isPermaLink="false">05befcee-043f-4739-b423-0dc915000171</guid>
             <pubDate>Wed, 24 Aug 2016 09:47:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Air pollution isn't just making China sick, it's making the country's cities unbearably hot]]></title>
-            <description><![CDATA[<article><h1>Air pollution isn't just making China sick, it's making the country's cities unbearably hot</h1><p>Here's another way China's notorious air pollution is making citizens' lives uncomfortable-it's making the country's cities hotter. Researchers have found evidence that the pollution engulfing China's cities enhances the warming effect of cityscapes, raising the temperature by one degree Celsius. Writing in Nature Communications, they say it's not the bigger cities that suffer the most, but...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/89b5041226448c3659a5310766ce4d57/noop.jpg?input=https%3A%2F%2Fqzprod.files.wordpress.com%2F2016%2F08%2Fshanghai-air-pollution.jpg"></article>]]></description>
-            <link>http://qz.com/764121/air-pollution-in-china-is-making-cities-hotter/</link>
-            <guid isPermaLink="false">8595009e-6443-430b-be62-5bacb8b0b008</guid>
-            <pubDate>Wed, 24 Aug 2016 09:47:07 GMT</pubDate>
         </item>
     </channel>
 </rss>
