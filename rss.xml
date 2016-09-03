@@ -4,8 +4,15 @@
         <description><![CDATA[Guido Eekhaut]]></description>
         <link>https://thegrid.ai/eekhaut/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 31 Aug 2016 08:25:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Sep 2016 07:56:50 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/eekhaut/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[LRB · Thomas Nagel · By Any Means or None: Does Terrorism Work?]]></title>
+            <description><![CDATA[<article><h1>LRB · Thomas Nagel · By Any Means or None: Does Terrorism Work?</h1><p>When I am hit with news of yet another terrorist attack, I often wonder what these people hope to achieve. In a depressingly timely book, Richard English tries to answer that question for a number of important cases, in order to address the broader question of his title.</p><img src="http://cdn.lrb.co.uk/assets/covers/q/cov3817.jpg?1472644509"></article>]]></description>
+            <link>http://www.lrb.co.uk/v38/n17/thomas-nagel/by-any-means-or-none</link>
+            <guid isPermaLink="false">84d42795-db57-459c-ba68-8c1efda26019</guid>
+            <pubDate>Thu, 01 Sep 2016 07:56:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Kan een Intelligente Machine ook een Morele Agent zijn?]]></title>
             <description><![CDATA[<article><h1>Kan een Intelligente Machine ook een Morele Agent zijn?</h1><p>My essay on the morality of AI. </p></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://www.techinasia.com/baidu-founder-ai-future</link>
             <guid isPermaLink="false">910475c3-c812-43a0-b540-e7b943fa48c9</guid>
             <pubDate>Fri, 26 Aug 2016 06:24:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Facebook's latest algorithm sees the world more clearly]]></title>
-            <description><![CDATA[<article><h1>Facebook's latest algorithm sees the world more clearly</h1><p>To make sense of the visual world, it's not enough to know that you are looking at, say, a cat. You need to know where the cat stops and the background begins. A computer vision algorithm developed by Facebook and made publicly available to other researchers today gives computers this ability.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/242e660259e46f7f795fd6126e256420/noop.jpg?input=https%3A%2F%2Fd267cvn3rvuq91.cloudfront.net%2Fi%2Fimages%2Ffacebookai4.jpg%3Fcx%3D0%26cy%3D404%26cw%3D1400%26ch%3D787%26sw%3D1200"></article>]]></description>
-            <link>https://www.technologyreview.com/s/602236/facebook-releases-code-to-let-computers-see-more-like-us/?set=602242</link>
-            <guid isPermaLink="false">df97ccc2-0fe1-4841-b467-d9bf645cb9dc</guid>
-            <pubDate>Fri, 26 Aug 2016 06:22:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
