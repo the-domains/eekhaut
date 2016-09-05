@@ -30,11 +30,11 @@ app_links: []
 isBasedOnUrl: >-
   https://www.technologyreview.com/s/602283/googles-quantum-dream-may-be-just-around-the-corner/?set=602285
 title: Google isn't far off from achieving quantum supremacy
-datePublished: '2016-09-02T07:16:45.113Z'
-dateModified: '2016-09-02T07:15:40.763Z'
+datePublished: '2016-09-02T07:20:18.757Z'
+dateModified: '2016-09-02T07:20:18.422Z'
 via: {}
-starred: false
 sourcePath: _posts/2016-09-02-google-isnt-far-off-from-achieving-quantum-supremacy.md
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
