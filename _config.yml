@@ -12,5 +12,9 @@ color:
     - '#160600'
 layout_spectrum: 0.732370447833091
 name: Eekhaut
+navigation:
+  - name: Contact
+    id: 8ae35438-8282-45a9-a01e-9e49a0489949
+    type: content
 title: Guido Eekhaut
 description: 'Futurist, Crime and Speculative Fiction Writer'
