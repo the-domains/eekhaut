@@ -1,16 +1,16 @@
-typography_spectrum: 0.5139585800934583
+layout_spectrum: 0.5612648311071098
+typography_spectrum: 0.6555719086900353
 color:
-  brandStrength: 0.4998188770841807
-  lightness: 0.9531357297673821
-  saturation: 0.9812493564095348
-  rhythmicContrast: 0.14469765382818878
+  brandStrength: 0.9616873648483306
+  lightness: 0.3641534228809178
+  saturation: 0.9071330497972667
+  rhythmicContrast: 0.4692913426551968
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
-layout_spectrum: 0.732370447833091
+    - '#DC3522'
+    - '#D9CB9E'
+    - '#374140'
+    - '#2A2C2B'
+    - '#1E1E20'
 name: Eekhaut
 navigation:
   - name: Guidoeekhaut@yahoo.co.uk
